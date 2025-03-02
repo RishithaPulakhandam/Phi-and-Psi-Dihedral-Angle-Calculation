@@ -27,7 +27,7 @@ This project provides a Python tool for computing phi (φ) and psi (ψ) dihedral
 
 ## **Usage**
 
-1. Place your PDB file in the working directory.
+1. Place your PDB file in the working directory. (eg; 3GHG.pdb)
 2. Run the script:
    ```bash
    python calculate_dihedrals.py
